@@ -20,6 +20,9 @@ Execute o arquivo Python e informe o valor da compra quando solicitado.
 
 O programa mostrará:
 
-Porcentagem do desconto
-Valor do desconto
-Valor final da compra
+
+° Porcentagem do desconto
+
+° Valor do desconto
+
+° Valor final da compra
